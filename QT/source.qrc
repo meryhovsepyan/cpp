@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/p">
+        <file>88.PNG</file>
+        <file>bigstock-Gray-Background-3368923.jpg</file>
+        <file>m.jpg</file>
+        <file>nn.png</file>
+        <file>t.PNG</file>
+        <file>load.gif</file>
+    </qresource>
+</RCC>
